@@ -1,0 +1,37 @@
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.exe.config
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.exe
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.pdb
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.csprojResolveAssemblyReference.cache
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.Form1.resources
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.Cache
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.exe
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.pdb
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.exe.config
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.exe
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.pdb
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.exe
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\bin\Debug\Castle.pdb
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.Form1.resources
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
+C:\Users\Настя\Desktop\Настя\Учеба\Программирование\3 семестр\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.Cache
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\bin\Debug\Castle.exe.config
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.exe
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.pdb
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\bin\Debug\Castle.exe
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\bin\Debug\Castle.pdb
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.csprojResolveAssemblyReference.cache
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.Form1.resources
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
+C:\Users\PC-Nastya\Desktop\Настя\Учеба\Программирование\3 семестр\задание 3 чистое\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.Cache
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.exe
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.pdb
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\bin\Debug\Castle.exe.config
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\bin\Debug\Castle.exe
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\bin\Debug\Castle.pdb
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.csprojAssemblyReference.cache
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.Form1.resources
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.cache
+C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.csproj.CoreCompileInputs.cache
