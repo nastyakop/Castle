@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Castle
 {
-    // интерфейс объекта, имеющего позицию в пространстве
     public interface IPosition
     {
         double X { get; }

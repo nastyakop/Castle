@@ -8,7 +8,6 @@ namespace Castle
 {
     public interface IOptions
     {
-        // размеры мира
         double WorldWidth { get; }
         double WorldHeight { get; }
        

@@ -10,6 +10,7 @@ namespace Castle
     {
         public double WorldWidth { get;  }
         public double WorldHeight { get;  }
+
         public Enemy(double worldWidth, double worldHeight)
         {
             WorldWidth = worldWidth;

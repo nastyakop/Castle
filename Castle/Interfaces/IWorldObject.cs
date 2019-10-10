@@ -7,8 +7,5 @@ using System.Threading.Tasks;
 
 namespace Castle
 {
-    // интерфейс для объекта "мира"
-    public interface IWorldObject : IActive, IPosition, IDrawable
-    {
-    }
+    public interface IWorldObject : IActive, IPosition, IDrawable {}
 }

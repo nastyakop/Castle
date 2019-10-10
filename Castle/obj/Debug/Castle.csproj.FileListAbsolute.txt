@@ -35,3 +35,13 @@ C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\De
 C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
 C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.cache
 C:\Users\Настя\Downloads\3 семестр\Задачи\Castle\Castle\obj\Debug\Castle.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\GitHub\Castle\Castle\bin\Debug\Castle.exe.config
+C:\Users\Настя\Documents\GitHub\Castle\Castle\bin\Debug\Castle.exe
+C:\Users\Настя\Documents\GitHub\Castle\Castle\bin\Debug\Castle.pdb
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.csprojAssemblyReference.cache
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.Form1.resources
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.Properties.Resources.resources
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.csproj.GenerateResource.cache
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.exe
+C:\Users\Настя\Documents\GitHub\Castle\Castle\obj\Debug\Castle.pdb

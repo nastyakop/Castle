@@ -9,11 +9,49 @@ namespace Castle
 {
     public abstract class WarriorEnemy : Warrior
     {
+       
+        protected double RandomX
+        {
+            get
+            {
+                return rnd.NextDouble() * WorldOptions.WorldWidth;
+            }
+        }
+        
+
+        protected double RandomY
+        {
+            get
+            {
+                return rnd.NextDouble() * WorldOptions.WorldHeight;
+            }
+        }
+
+
         public IWorld World
         {
             get;
             private set;
         }
+
+
+        public IOptions WorldOptions
+        {
+            get
+            {
+                return World == null ? null : World.WorldOut;
+            }
+        }
+
+
+        protected WarriorEnemy(IWorld world, double x, double y)
+        {
+            this.X = x;
+            this.Y = y;
+            this.World = world;
+        }
+
+
         public T FindNearestWarrior<T>() where T : IWorldObject
         {
             T obj = default(T);
@@ -29,43 +67,5 @@ namespace Castle
             }
             return obj;
         }
-        public IOptions WorldOptions
-        {
-            get
-            {
-                return World == null ? null : World.WorldOut;
-            }
-        }
-
-        protected WarriorEnemy(IWorld world, double x, double y)
-        {
-            this.X = x;
-            this.Y = y;
-            this.World = world;
-        }
-
-        //protected WarriorEnemy(IWorld world)
-        //  : this(world, 0, 0)
-        //{
-        //}
-
-        protected double RandomX
-        {
-            get
-            {
-                return rnd.NextDouble() * WorldOptions.WorldWidth;
-            }
-        }
-        protected double RandomY
-        {
-            get
-            {
-                return rnd.NextDouble() * WorldOptions.WorldHeight;
-            }
-        }
     }
-
-
-
-
 }

@@ -16,6 +16,7 @@ namespace Castle
         public static int Swords { get; set; }
         public static int Cavalery { get; set; }
         public static double SecurityLevel { get; set; }
+
         public CastleFeatures(int water, int bread, int beer, int meat,
                               int archers, int swords, int cavalery)
         {

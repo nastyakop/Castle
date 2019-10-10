@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Castle
 {
-    // интерфейс объекта, умеющего себя изображать
     public interface IDrawable
     {
-        void Draw(Graphics g);  // предполагается, что центр объекта должен отрисовываться в точке (0, 0)
+        void Draw(Graphics g);
     }
 }

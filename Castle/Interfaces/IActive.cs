@@ -8,7 +8,7 @@ namespace Castle
 {
     public interface IActive
     {
-        bool Living { get; }  // "жив" ли еще объект
-        void Action();        // действие объекта за один игровой цикл
+        bool IsAlive { get; }
+        void Action();
     }
 }

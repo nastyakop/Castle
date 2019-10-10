@@ -1,32 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Drawing;
-using System.Threading.Tasks;
 
 namespace Castle
 {
     /// <summary>
-
-    /// понижение запасов должно зависеть от количества воинов
-    /// 
-    /// стратегии для всех видов воинов должны быть разные
-    /// скорость у каждого воина должна быть своя
-    /// 
-    /// сделать рендом ограниченным, чтобы воины противники не заходили 
-    /// в крепость рендомо, а делали это только в интересах стратегии
-    /// 
+    /// Warrior базовый абстрактый класс для всех воинов мира, 
+    /// реализует общую функциональность
     /// </summary>
-
-
-    // базовый абстрактый класс для всех воинов мира, реализует общую функциональность
     public abstract class Warrior : IWorldObject, IPosition, IActive, IDrawable
     {
         protected static Random rnd = new Random();
         internal WarriorState state = WarriorState.Start;
         internal double targetX = -1, targetY = -1;
         
+
         internal enum WarriorState
         {
             Start,
@@ -35,7 +22,9 @@ namespace Castle
             Stop
         }
 
+
         public double Health { get; set; }
+
 
         public virtual double X
         {
@@ -43,11 +32,28 @@ namespace Castle
             protected set;
         }
         
+
         public virtual double Y
         {
             get;
             protected set;
         }
+
+
+        public bool IsAlive
+        {
+            get
+            {
+                return Health > 0;
+            }
+        }
+
+
+        public abstract void Action();
+
+
+        public abstract void Draw(Graphics g);
+
 
         public virtual double GetDistance(double X, double Y)
         {
@@ -56,19 +62,6 @@ namespace Castle
             return Math.Sqrt(dx * dx + dy * dy);
         }
 
-        public bool Living
-        {
-            get
-            {
-                // живы, пока осталось здоровье
-                return Health > 0;
-            }
-        }
-
-        public abstract void Action();
-
-
-        public abstract void Draw(Graphics g);
 
         protected void MoveTo(double x, double y, double speed)
         {
